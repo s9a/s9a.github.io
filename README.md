@@ -3,4 +3,4 @@ s9a website coming soon
 
 ### 1st project: tape
 
-- https://s9a.github.io/tape
+- [s9a.github.io/tape](https://s9a.github.io/tape)
