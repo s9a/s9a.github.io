@@ -4,7 +4,7 @@
 
 ### [<code>fake it till you <strong>name</strong> it</code>](https://github.com/s9a/fake_it_till_you_name_it)
 
-`_ __ ___ _____ ________ ^^^
+_ __ ___ _____ ________ ^^^
 
 ## [view source](https://www.npmjs.com/org/s9a)
 
