@@ -1,0 +1,23 @@
+{
+  "name": "@s9a/s9a.github.io",
+  "version": "0.0.0",
+  "description": "s9a org deets :)",
+  "main": "index.html",
+  "license": "CC-BY-4.0",
+  "scripts": {
+    "preversion": "npm ls",
+    "test": "cat package.json"
+  },
+  "homepage": "https://s9a.github.io",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s9a/s9a.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/s9a/s9a.github.io/issues"
+  },
+  "keywords": [
+    "org",
+    "synesthesia"
+  ]
+}
