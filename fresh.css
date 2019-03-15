@@ -26,11 +26,3 @@
 
 .mb1 { margin-bottom: 1rem }
 .mb2 { margin-bottom: 2rem }
-
-.cake-vday { background: #415 !important; color: #bae4ea !important }
-.cake-bday { background: #bae4ea !important; color: #415 !important }
-.cake-clean:not(.cake-unclean),
-.cake-clean :not(.cake-unclean) {
-  color: inherit;
-  background: inherit;
-}
