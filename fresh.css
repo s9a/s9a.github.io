@@ -4,7 +4,12 @@
 }
 
 :link {
+  background: aqua;
   touch-action: manipulation;
+}
+
+.jump {
+  background: none;
 }
 
 :focus {
@@ -41,6 +46,15 @@
 .hella { font-size: 2rem }
 .lowkey { text-transform: lowercase }
 .exhale { margin-bottom: 1rem }
-.surf { text-decoration: none solid }
-.surf:focus { text-decoration: underline dashed }
-.surf:hover { text-decoration: underline solid }
+
+/***********************************
+github.com/s9a/s9a.github.io/pull/55
+***********************************/
+.surf { text-decoration: none }
+.surf:focus {
+  text-decoration: underline;
+  text-decoration: underline dashed;
+}
+.surf:hover {
+  text-decoration: underline;
+}
