@@ -1,28 +1,46 @@
-.against_the_current {
+::selection {
+  color: black;
+  background: orange;
+}
+
+:link {
+  touch-action: manipulation;
+}
+
+:focus {
+  outline-color: currentColor;
+  outline-style: outset;
+  outline-offset: .05rem;
+  outline-width: .05rem;
+}
+
+.fame {
   font-family: sans-serif;
   font-size: calc(1em + 1vw + 1vh);
   line-height: 1.33333;
 }
 
-.dance_all_nite {
+.hood {
+  display: block;
   margin: 0;
-  padding: 0;
-  overflow-wrap: break-word;
 }
-
-.hella { line-height: inherit; font-size: 2rem }
-.hellu { line-height: inherit; font-size: 2.666666rem }
 
 .nah {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
   list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
-.hit_or_miss {
+.pad {
+  padding: 1rem;
   padding: calc(1rem + 1vh) calc(1rem + 1vw);
 }
 
-.mb1 { margin-bottom: 1rem }
-.mb2 { margin-bottom: 2rem }
+.calm { font: inherit }
+.bold { font-weight: bold }
+.hella { font-size: 2rem }
+.lowkey { text-transform: lowercase }
+.exhale { margin-bottom: 1rem }
+.surf { text-decoration: none solid }
+.surf:focus { text-decoration: underline dashed }
+.surf:hover { text-decoration: underline solid }
