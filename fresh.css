@@ -41,6 +41,16 @@
 .hella { font-size: 2rem }
 .lowkey { text-transform: lowercase }
 .exhale { margin-bottom: 1rem }
-.surf { text-decoration: none solid }
-.surf:focus { text-decoration: underline dashed }
-.surf:hover { text-decoration: underline solid }
+
+
+/********************************
+caniuse.com/#feat=text-decoration
+********************************/
+.surf { text-decoration: none }
+.surf:focus {
+  text-decoration: underline;
+  text-decoration: underline dashed;
+}
+.surf:hover {
+  text-decoration: underline;
+}
