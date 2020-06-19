@@ -47,10 +47,9 @@
 .lowkey { text-transform: lowercase }
 .exhale { margin-bottom: 1rem }
 
-
-/********************************
-caniuse.com/#feat=text-decoration
-********************************/
+/***********************************
+github.com/s9a/s9a.github.io/pull/55
+***********************************/
 .surf { text-decoration: none }
 .surf:focus {
   text-decoration: underline;
