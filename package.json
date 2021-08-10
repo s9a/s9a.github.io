@@ -1,23 +1,20 @@
 {
+  "private": true,
+  "version": "2021",
   "name": "@s9a/s9a.github.io",
-  "version": "0.1.0",
-  "description": "s9a org deets :)",
+  "description": "next level web color",
   "main": "index.html",
-  "license": "CC-BY-4.0",
+  "license": "DIY",
   "scripts": {
+    "start": "open index.html || start index.html || xdg-open index.html",
     "preversion": "npm ls",
     "test": "cat package.json"
   },
-  "homepage": "https://s9a.github.io",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/s9a/s9a.github.io.git"
-  },
-  "bugs": {
-    "url": "https://github.com/s9a/s9a.github.io/issues"
-  },
+  "homepage": "https://s9a.page",
+  "repository": "github:s9a/s9a.github.io",
+  "bugs": "https://github.com/s9a/s9a.github.io/issues",
   "keywords": [
-    "org",
+    "homepage",
     "synesthesia"
   ]
 }
