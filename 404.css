@@ -1,0 +1,29 @@
+@media (color) {
+  :root {
+    background: #404;
+    color: salmon;
+  }
+
+  ::selection {
+    background: gainsboro;
+    color: #404;
+  }
+
+  :link { color: turquoise }
+  :visited { color: thistle }
+}
+
+@media (color) and (prefers-contrast: more) {
+  :root { color: peachpuff }
+  :link { color: aquamarine }
+  :visited { color: pink }
+}
+
+html { font: 2em sans-serif }
+body { margin: 1em }
+h1 { font-weight: 400 }
+
+:focus {
+  outline-style: dashed;
+  outline-width: thick;
+}
