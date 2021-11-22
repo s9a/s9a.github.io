@@ -1,6 +1,6 @@
 /*
 be tape my friend
 https://s9a.page/tape
-https://github.com/s9a/tape/releases/tag/v0.4.0
+https://github.com/s9a/tape/releases/v0.4.0
 */
 :root{--tape-white:#e9e9e9;--tape-black:#090909;--tape-pink:#fbbfff;--tape-yellow:#eee833;--tape-blue:#11dff1;--tape-green:#44f477;--tape-filter:none}@media (prefers-contrast:less){:root{--tape-white:#dcdcdc;--tape-black:#272727}}.tape-white{--tape-hex:var(--tape-white)}.tape-blue{--tape-hex:var(--tape-blue)}.tape-pink{--tape-hex:var(--tape-pink)}.tape-green{--tape-hex:var(--tape-green)}.tape-yellow{--tape-hex:var(--tape-yellow)}.tape-clean:not(.tape-clash),.tape-clean :not(.tape-clash){background:transparent;color:inherit}.tape-flat{border-color:transparent}.tape-flap{border-color:currentColor}.tape-blue,.tape-pink,.tape-green,.tape-yellow,.tape-white{filter:var(--tape-filter);background:var(--tape-hex)!important;color:var(--tape-black)!important}.tape-black{background:var(--tape-black)!important;color:var(--tape-hex,var(--tape-white))!important}.tape-erase,.tape-erase *{color:transparent!important}
