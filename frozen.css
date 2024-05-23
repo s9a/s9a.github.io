@@ -1,6 +1,44 @@
 /*
 be tape my friend
 https://s9a.page/tape
-https://github.com/s9a/tape/releases/v0.4.0
+https://github.com/s9a/tape/releases/v0.8.0
 */
-:root{--tape-white:#e9e9e9;--tape-black:#090909;--tape-pink:#fbbfff;--tape-yellow:#eee833;--tape-blue:#11dff1;--tape-green:#44f477;--tape-filter:none}@media (prefers-contrast:less){:root{--tape-white:#dcdcdc;--tape-black:#272727}}.tape-white{--tape-hex:var(--tape-white)}.tape-blue{--tape-hex:var(--tape-blue)}.tape-pink{--tape-hex:var(--tape-pink)}.tape-green{--tape-hex:var(--tape-green)}.tape-yellow{--tape-hex:var(--tape-yellow)}.tape-clean:not(.tape-clash),.tape-clean :not(.tape-clash){background:transparent;color:inherit}.tape-flat{border-color:transparent}.tape-flap{border-color:currentColor}.tape-blue,.tape-pink,.tape-green,.tape-yellow,.tape-white{filter:var(--tape-filter);background:var(--tape-hex)!important;color:var(--tape-black)!important}.tape-black{background:var(--tape-black)!important;color:var(--tape-hex,var(--tape-white))!important}.tape-erase,.tape-erase *{color:transparent!important}
+:root{--tape-filter:none;--tape-bluv:#11dff1;--tape-play:#fbbfff;--tape-loud:#eee833;--tape-luvu:#44f477;--tape-blaq:#0e0e0e;--tape-watt:#e0e0e0;--tape-hex:#e0e0e0;--tape-mix:transparent}.tape-watt{--tape-hex:var(--tape-watt)}.tape-luvu{--tape-hex:var(--tape-luvu)}.tape-loud{--tape-hex:var(--tape-loud)}.tape-play{--tape-hex:var(--tape-play)}.tape-bluv{--tape-hex:var(--tape-bluv)}.tape-flat{border-color:transparent}.tape-flap{border-color:currentColor}.tape-flow{--tape-remix:none}.tape-flow :not(.tape-skip){background-color:transparent;color:inherit}.tape-blaq,.tape-bluv,.tape-loud,.tape-luvu,.tape-play,.tape-watt{--tape-mix:var(--tape-hex);--tape-remix:none;color:var(--tape-blaq)!important;background-color:var(--tape-mix)!important;background-image:var(--tape-remix);filter:var(--tape-filter)}.tape-blaq{--tape-mix:var(--tape-blaq);color:var(--tape-hex)!important}.tape-erase,.tape-erase *{color:transparent!important}
+
+/*
+iffy◒ color typhoon
+https:s9a.page/iffy
+*/
+.iyff {filter:hue-rotate(-288deg)}
+.ffiy {filter:hue-rotate(288deg)}
+.ffyi {filter:hue-rotate(144deg)}
+.yiff {filter:hue-rotate(-144deg)}
+.iffy {fill:var(--iffy);stroke:var(--yffi)}
+.yffi {fill:var(--yffi);stroke:var(--iffy)}
+.iffy.iffy {background-color:var(--iffy);color:var(--yffi)}
+.yffi.yffi {background-color:var(--yffi);color:var(--iffy)}
+.iffy ::selection {color:var(--iffy);background:var(--else)}
+.yffi ::selection {color:var(--yffi);background:var(--else)}
+.iffy *{background-color:transparent;color:unset;--else:aquamarine}
+.yffi *{background-color:transparent;color:unset;--else:dodgerblue}
+*{--iffy:darkviolet;--yffi:lemonchiffon}
+@media (prefers-color-scheme:dark){*{--yffi:khaki}}
+@media (prefers-contrast:more){*{--iffy:indigo}}
+@media (prefers-contrast:less){*{--yffi:peachpuff}}
+
+/*
+violet named colors
+violet flower energy
+https:s9a.page/violet
+*/
+.viola * { background: transparent; color:inherit }
+.viola.viola { color:var(--loyal); background:var(--petal) }
+.viola.ouija { color:var(--petal); background:var(--loyal) }
+.viola ::selection { color: #090909; background: #ec0 }
+
+.viola { --petal: #bae; --loyal: indigo }
+.violet { --petal: violet; --loyal: indigo }
+.blueviolet { --petal: blueviolet; --loyal: floralwhite }
+.darkviolet { --petal: darkviolet; --loyal: floralwhite }
+.palevioletred { --petal: palevioletred; --loyal: navy }
+.mediumvioletred { --petal: mediumvioletred; --loyal: floralwhite }

@@ -1,10 +1,9 @@
 ::selection {
-  color: black;
-  background: orange;
+  color: indigo;
+  background: deepskyblue;
 }
 
-:link {
-  background: aqua;
+:any-link {
   touch-action: manipulation;
 }
 
@@ -15,8 +14,8 @@
 :focus {
   outline-color: currentColor;
   outline-style: outset;
-  outline-offset: .05rem;
-  outline-width: .05rem;
+  outline-offset: .1ex;
+  outline-width: .1rem;
 }
 
 .fame {
@@ -26,6 +25,7 @@
 }
 
 .hood {
+  contain: layout;
   display: block;
   margin: 0;
 }
