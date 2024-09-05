@@ -1,5 +1,5 @@
 ::selection {
-  color: indigo;
+  color: #0e0e0e;
   background: deepskyblue;
 }
 
@@ -7,25 +7,21 @@
   touch-action: manipulation;
 }
 
-.jump {
-  background: none;
-}
-
 :focus {
   outline-color: currentColor;
   outline-style: outset;
-  outline-offset: .1ex;
-  outline-width: .1rem;
+  outline-offset: .146ch;
+  outline-width: .146rem;
 }
 
 .fame {
   font-family: sans-serif;
   font-size: calc(1em + 1vw + 1vh);
-  line-height: 1.33333;
+  line-height: calc(4 / 3);
 }
 
 .hood {
-  contain: layout;
+  contain: style layout;
   display: block;
   margin: 0;
 }
@@ -38,7 +34,8 @@
 
 .pad {
   padding: 1rem;
-  padding: calc(1rem + 1vh) calc(1rem + 1vw);
+  padding-block: calc(1rem + 1vh);
+  padding-inline: calc(1rem + 1vw);
 }
 
 .calm { font: inherit }
@@ -47,14 +44,8 @@
 .lowkey { text-transform: lowercase }
 .exhale { margin-bottom: 1rem }
 
-/***********************************
-github.com/s9a/s9a.github.io/pull/55
-***********************************/
-.surf { text-decoration: none }
-.surf:focus {
-  text-decoration: underline;
-  text-decoration: underline dashed;
-}
-.surf:hover {
-  text-decoration: underline;
+@supports (--rainbow:7) {
+  .surf { text-decoration:none wavy }
+  .surf:focus { text-decoration:underline dashed }
+  .surf:hover { text-decoration:underline solid }
 }

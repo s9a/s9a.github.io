@@ -36,6 +36,7 @@ https://s9a.page/durazno
 https://s9a.page/dm
 https://s9a.page/E
 https://s9a.page/e40
+https://s9a.page/elftile
 https://s9a.page/feels
 https://s9a.page/firefly
 https://s9a.page/flamingo
@@ -66,6 +67,7 @@ https://s9a.page/lotus
 https://s9a.page/luna
 https://s9a.page/magma
 https://s9a.page/marker
+https://s9a.page/memia
 https://s9a.page/mindful
 https://s9a.page/mochi
 https://s9a.page/moon
@@ -86,8 +88,10 @@ https://s9a.page/peach
 https://s9a.page/peels
 https://s9a.page/pepper
 https://s9a.page/porpoise
+https://s9a.page/puravida
 https://s9a.page/purple
 https://s9a.page/presampler
+https://s9a.page/qase
 https://s9a.page/quintile
 https://s9a.page/rebecca
 https://s9a.page/reef
@@ -98,10 +102,11 @@ https://s9a.page/seashell
 https://s9a.page/selfie
 https://s9a.page/session
 https://s9a.page/signals
+https://s9a.page/snooze
+https://s9a.page/sound
 https://s9a.page/space
 https://s9a.page/spice
 https://s9a.page/sponge
-https://s9a.page/sound
 https://s9a.page/surge
 https://s9a.page/synth
 https://s9a.page/tagging
@@ -116,6 +121,7 @@ https://s9a.page/v11y
 https://s9a.page/violet
 https://s9a.page/volume
 https://s9a.page/wave
+https://s9a.page/yesp
 https://s9a.page/yhma
 https://s9a.page/ylma
 https://s9a.page/yr

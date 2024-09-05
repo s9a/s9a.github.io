@@ -1,13 +1,13 @@
 /*
 be tape my friend
 https://s9a.page/tape
-https://github.com/s9a/tape/releases/v0.8.0
+https://s9a.org/tape/releases/v0.8.0
 */
 :root{--tape-filter:none;--tape-bluv:#11dff1;--tape-play:#fbbfff;--tape-loud:#eee833;--tape-luvu:#44f477;--tape-blaq:#0e0e0e;--tape-watt:#e0e0e0;--tape-hex:#e0e0e0;--tape-mix:transparent}.tape-watt{--tape-hex:var(--tape-watt)}.tape-luvu{--tape-hex:var(--tape-luvu)}.tape-loud{--tape-hex:var(--tape-loud)}.tape-play{--tape-hex:var(--tape-play)}.tape-bluv{--tape-hex:var(--tape-bluv)}.tape-flat{border-color:transparent}.tape-flap{border-color:currentColor}.tape-flow{--tape-remix:none}.tape-flow :not(.tape-skip){background-color:transparent;color:inherit}.tape-blaq,.tape-bluv,.tape-loud,.tape-luvu,.tape-play,.tape-watt{--tape-mix:var(--tape-hex);--tape-remix:none;color:var(--tape-blaq)!important;background-color:var(--tape-mix)!important;background-image:var(--tape-remix);filter:var(--tape-filter)}.tape-blaq{--tape-mix:var(--tape-blaq);color:var(--tape-hex)!important}.tape-erase,.tape-erase *{color:transparent!important}
 
 /*
-iffy◒ color typhoon
-https:s9a.page/iffy
+iffy color typhoon
+https://s9a.page/iffy
 */
 .iyff {filter:hue-rotate(-288deg)}
 .ffiy {filter:hue-rotate(288deg)}
