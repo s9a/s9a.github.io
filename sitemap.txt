@@ -48,6 +48,7 @@ https://s9a.page/hellotape
 https://s9a.page/hue
 https://s9a.page/i14y
 https://s9a.page/iffy
+https://s9a.page/illbang
 https://s9a.page/imagine
 https://s9a.page/index
 https://s9a.page/indigo
@@ -67,7 +68,9 @@ https://s9a.page/lotus
 https://s9a.page/luna
 https://s9a.page/magma
 https://s9a.page/marker
+https://s9a.page/media
 https://s9a.page/memia
+https://s9a.page/midi
 https://s9a.page/mindful
 https://s9a.page/mochi
 https://s9a.page/moon
